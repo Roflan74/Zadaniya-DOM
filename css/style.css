@@ -1,0 +1,15 @@
+.hover-effect {
+    color: black;
+}
+
+.hover-effect:hover {
+    color: orange;
+}
+
+.baloon {
+    transition: all 1s ease-in-out;
+}
+
+.baloon-move {
+    transform: translateY(-100px);
+}
